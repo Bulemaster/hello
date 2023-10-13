@@ -1,2 +1,2 @@
 # hello
-my first github
+i love github
